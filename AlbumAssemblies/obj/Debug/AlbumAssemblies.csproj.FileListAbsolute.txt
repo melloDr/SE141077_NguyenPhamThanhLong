@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\SE0141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\bin\Debug\AlbumAssemblies.dll
+C:\Users\Admin\Desktop\SE0141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\bin\Debug\AlbumAssemblies.pdb
+C:\Users\Admin\Desktop\SE0141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\obj\Debug\AlbumAssemblies.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SE0141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\obj\Debug\AlbumAssemblies.dll
+C:\Users\Admin\Desktop\SE0141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\obj\Debug\AlbumAssemblies.pdb
+D:\New folder\SE141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\bin\Debug\AlbumAssemblies.dll
+D:\New folder\SE141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\bin\Debug\AlbumAssemblies.pdb
+D:\New folder\SE141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\obj\Debug\AlbumAssemblies.csprojAssemblyReference.cache
+D:\New folder\SE141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\obj\Debug\AlbumAssemblies.csproj.CoreCompileInputs.cache
+D:\New folder\SE141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\obj\Debug\AlbumAssemblies.dll
+D:\New folder\SE141077_NguyenPhamThanhLong_PE05\SE141077_NguyenPhamThanhLong\AlbumAssemblies\obj\Debug\AlbumAssemblies.pdb
